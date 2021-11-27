@@ -1,1 +1,1 @@
-# QianZehao_Vim_config
+"调教"一下RPi
