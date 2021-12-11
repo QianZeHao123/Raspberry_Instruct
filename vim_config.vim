@@ -9,6 +9,7 @@ inoremap jj <esc>
 
 
 " Pyhon Code
+
 func SetTitle()
 call setline(1, "\# !/usr/bin/python")
 call setline(2, "\# -*- coding=utf8 -*-")
